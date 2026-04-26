@@ -1,0 +1,14 @@
+# Etilometro (Dräger Interlock 7000)
+
+ID Componente: 4
+Requisiti Funzionali: Misurazione del tasso alcolemico  (../../B%20Analisi%20dei%20Requisiti/Requisiti%20Funzionali/Misurazione%20del%20tasso%20alcolemico%2019a1100dcfbd81478aa7f117bfc0bce8.md), Controllo misurazione (../../B%20Analisi%20dei%20Requisiti/Requisiti%20Funzionali/Controllo%20misurazione%2019a1100dcfbd8168a563ed39b9a87fcc.md)
+Requisiti Non Funzionali: Precisione  (../../B%20Analisi%20dei%20Requisiti/Requisiti%20Non%20Funzionali/Precisione%2019a1100dcfbd812f9779f6ae7ff78da9.md), Affidabilità (../../B%20Analisi%20dei%20Requisiti/Requisiti%20Non%20Funzionali/Affidabilit%C3%A0%2019a1100dcfbd8176aa89ef8953ad5813.md), Tempo di risposta  (../../B%20Analisi%20dei%20Requisiti/Requisiti%20Non%20Funzionali/Tempo%20di%20risposta%2019a1100dcfbd81269f08d5a242c6d036.md), Compatibilità (tramite CAN BUS) (../../B%20Analisi%20dei%20Requisiti/Requisiti%20Non%20Funzionali/Compatibilit%C3%A0%20(tramite%20CAN%20BUS)%2019a1100dcfbd81d5a223e17c75426bcf.md), Bassa Latenza  (../../B%20Analisi%20dei%20Requisiti/Requisiti%20Non%20Funzionali/Bassa%20Latenza%2019a1100dcfbd81af842beff3d9394ae4.md)
+
+## Descrizione
+
+Il sistema Interlock 7000 è costituito da due componenti: l'etilometro per la misurazione del tasso alcolemico e l'unità di controllo. Il campione di aria espirata viene analizzato nell'etilometro, mentre l'unità di controllo attiva oppure blocca il relè di avviamento del veicolo. Non appena il conducente inserisce l'accensione, Interlock 7000 richiede l'esecuzione di un test dell'espirato. Se l'etilometro rileva un tasso alcolemico superiore al valore limite prefissato, impedisce l'avviamento del motore. Questo dispositivo contribuisce a eliminare in modo sistematico il rischio di incidenti dovuti al consumo di alcol e a impedire la conduzione di un veicolo sotto l'effetto dell'alcol. 
+
+Inoltre è possibile configurare una connessione tra i sensori Dräger e la centralina IoT utilizzando un'interfaccia gateway CAN che traduca i dati per l'ambiente IoT. In questo modo, i sensori possono diventare parte di una rete integrata per il monitoraggio e il controllo remoto dei veicoli.
+
+Il **Dräger Interlock 7000** è progettato per interagire con il sistema del veicolo, ma non ha un'interfaccia CAN nativa. Quindi, per inviare i dati alla **Teltonika FMB140**, è necessario utilizzare un modulo di interfaccia che possa collegare il Dräger al **CAN bus** del veicolo.
+Un **modulo gateway CAN** può essere utilizzato come intermediario tra il **Dräger Interlock 7000** e la centralina **Teltonika FMB140**. Questo modulo sarà responsabile di raccogliere i dati dal **Dräger Interlock 7000** e inviarli tramite **CAN bus** alla **FMB140 (centralina)**. Il gateway CAN tradurrà i dati da un formato utilizzabile dal Dräger (come un protocollo proprietario) in un formato compatibile con il bus CAN del veicolo, che può poi essere letto dalla centralina.

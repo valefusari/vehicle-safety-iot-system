@@ -1,0 +1,9 @@
+﻿Name,Complessità,ID,Priorità,Requisiti SOTA
+"Misurazione di sostanze stupefacenti ",Alta,2,Alta,Sensori basati sulla saliva (B%20Analisi%20dei%20Requisiti/Requisiti%20che%20si%20vogliono%20riutilizzare/Sensori%20basati%20sulla%20saliva%2019a1100dcfbd816085acf0a0f021cbfd.md)
+Contatto assistenza,Bassa,1,Media,Dashboard (B%20Analisi%20dei%20Requisiti/Requisiti%20che%20si%20vogliono%20riutilizzare/Dashboard%2019a1100dcfbd81a7bc72c0581e5baa22.md)
+"Misurazione del tasso alcolemico ",Media,5,Alta,Sistemi di blocco motore (Alcolock) (B%20Analisi%20dei%20Requisiti/Requisiti%20che%20si%20vogliono%20riutilizzare/Sistemi%20di%20blocco%20motore%20(Alcolock)%2019a1100dcfbd814891c7f57097c6c395.md)
+Visualizzazione storico delle segnalazioni,Bassa,4,Bassa,Dashboard (B%20Analisi%20dei%20Requisiti/Requisiti%20che%20si%20vogliono%20riutilizzare/Dashboard%2019a1100dcfbd81a7bc72c0581e5baa22.md)
+Controllo misurazione,Media,8,Alta,Internet of things (IOT) (B%20Analisi%20dei%20Requisiti/Requisiti%20che%20si%20vogliono%20riutilizzare/Internet%20of%20things%20(IOT)%2019a1100dcfbd81248ae8ed6fad32bdc9.md)
+"Blocco dell’avvio del veicolo ",Alta,3,Alta,Internet of things (IOT) (B%20Analisi%20dei%20Requisiti/Requisiti%20che%20si%20vogliono%20riutilizzare/Internet%20of%20things%20(IOT)%2019a1100dcfbd81248ae8ed6fad32bdc9.md)
+Connettività e Segnalazione in tempo reale,Media,7,Media,Internet of things (IOT) (B%20Analisi%20dei%20Requisiti/Requisiti%20che%20si%20vogliono%20riutilizzare/Internet%20of%20things%20(IOT)%2019a1100dcfbd81248ae8ed6fad32bdc9.md)
+Visualizzazione delle segnalazioni,Media,6,Media,Dashboard (B%20Analisi%20dei%20Requisiti/Requisiti%20che%20si%20vogliono%20riutilizzare/Dashboard%2019a1100dcfbd81a7bc72c0581e5baa22.md)

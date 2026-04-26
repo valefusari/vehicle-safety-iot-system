@@ -1,0 +1,6 @@
+# Internet of things (IOT)
+
+ID: 4
+Requisiti Funzionali: Connettività e Segnalazione in tempo reale (../Requisiti%20Funzionali/Connettivit%C3%A0%20e%20Segnalazione%20in%20tempo%20reale%2019a1100dcfbd81b09db3cfb166eabfa3.md), Blocco dell’avvio del veicolo  (../Requisiti%20Funzionali/Blocco%20dell%E2%80%99avvio%20del%20veicolo%2019a1100dcfbd816d8568c80ceac15f92.md), Controllo misurazione (../Requisiti%20Funzionali/Controllo%20misurazione%2019a1100dcfbd8168a563ed39b9a87fcc.md)
+Requisiti Non Funzionali: Bassa Latenza  (../Requisiti%20Non%20Funzionali/Bassa%20Latenza%2019a1100dcfbd81af842beff3d9394ae4.md), Affidabilità (../Requisiti%20Non%20Funzionali/Affidabilit%C3%A0%2019a1100dcfbd8176aa89ef8953ad5813.md), Compatibilità (tramite CAN BUS) (../Requisiti%20Non%20Funzionali/Compatibilit%C3%A0%20(tramite%20CAN%20BUS)%2019a1100dcfbd81d5a223e17c75426bcf.md)
+Sistemi esistenti: Internet of things (IOT) (../Analisi%20dei%20sistemi%20esistenti/Internet%20of%20things%20(IOT)%2019a1100dcfbd819fbd85f6b1fdbb02a9.md)

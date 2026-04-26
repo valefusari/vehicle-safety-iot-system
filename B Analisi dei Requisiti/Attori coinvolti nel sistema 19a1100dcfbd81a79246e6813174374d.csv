@@ -1,0 +1,6 @@
+﻿ID,Name,Descrizione
+1,Assistenza stradale,Coloro che assisteranno il conducente in caso di blocco del veicolo
+2,Forze dell’ordine,Polizia o carabinieri
+3,"Gestore delle segnalazioni ",Colui che vede le segnalazioni da parte dei sensori ed eventualmente contatta forze dell’ordine e assistenza stradale
+4,"Conducente del veicolo  ",Il conducente del veicolo
+5,"Tecnici di installazione specializzati ",Coloro che sostituiranno i sensori in caso di malfunzionamenti
