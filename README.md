@@ -1,4 +1,4 @@
-# ByteSquad_2425 (3)
+# ByteSquad_2425 
 
 ## ByteSquad
 
