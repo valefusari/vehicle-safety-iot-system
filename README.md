@@ -79,8 +79,3 @@ Descrizione iniziale, Use Case Diagram( matching 1 a 1 con i requisiti funzional
 
 [F. Prototipo](ByteSquad_2425%20(3)/F%20Prototipo%2019a1100dcfbd81d2b450e558f1b48f78.md)
 
----
-
-[Untitled](ByteSquad_2425%20(3)/Untitled%2019a1100dcfbd817e825fe09a74040577.csv)
-
-[Untitled](ByteSquad_2425%20(3)/Untitled%2019a1100dcfbd811294b6fc06d08e6123.csv)
