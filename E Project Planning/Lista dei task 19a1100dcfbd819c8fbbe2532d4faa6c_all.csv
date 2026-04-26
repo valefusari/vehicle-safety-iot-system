@@ -1,0 +1,12 @@
+﻿Name,Date di inizio e fine reali,Date di inizio e fine stimate,Durata,ID task,Importanza,Predecessori,Priorità,Responsabili,Status
+"Analisi dello stato dell’arte ","October 17, 2024","October 17, 2024","1 giorno ",7,Alta,0,Alta,"Valentina Fusari, Chafry Kawtar, Jacopo Pio",Done
+Analisi dei requisiti,"October 18, 2024","October 25, 2024","1 settimana ",2,Alta,"Analisi dello stato dell’arte ",Alta,"Valentina Fusari, Chafry Kawtar, Jacopo Pio",Done
+Sviluppo dashboard,"November 25, 2024","December 2, 2024",,3,Media,Progettazione del sistema,Media,,Done
+"Sviluppo del modulo di rilevamento delle sostanze stupefacenti ","November 24, 2024","December 9, 2024","4 settimane ",5,Alta,"Progettazione del sistema ",Alta,"Chafry Kawtar, Valentina Fusari, Jacopo Pio",Done
+"Analisi dei rischi ","October 26, 2024","October 26, 2024",1 giorno,1,Alta,"Analisi dei requisiti ",Alta,"Chafry Kawtar, Valentina Fusari, Jacopo Pio",Done
+"Integrazione dei moduli ","January 7, 2025","January 14, 2025","1 settimana ",4,Alta,"Sviluppo del sistema di blocco del veicolo ",Alta,"Valentina Fusari, Chafry Kawtar, Jacopo Pio",Done
+"Sviluppo del sistema di blocco del veicolo ","December 9, 2024","January 6, 2025","1 settimana ",6,Alta,"Sviluppo del modulo del rilevamento delle sostanze stupefacenti, sviluppo del modulo di rilevamento delle sostanze alcoliche ",Alta,"Chafry Kawtar, Valentina Fusari, Jacopo Pio",Done
+"Sviluppo del modulo di rilevamento alcolico ","December 24, 2024","December 3, 2024","2 settimane ",9,Alta,"Progettazione del sistema ",Media,"Valentina Fusari, Chafry Kawtar, Jacopo Pio",Done
+"Progettazione del sistema ","October 27, 2024","November 24, 2024","4 settimane ",10,Alta,"Analisi dei requisiti, analisi dei rischi ",Alta,"Valentina Fusari, Chafry Kawtar, Jacopo Pio",Done
+Sviluppo rete IOT,"November 25, 2024","December 16, 2024",3 settimane,11,Media,Progettazione del sistema,Media,"Chafry Kawtar, Valentina Fusari, Jacopo Pio",Done
+"Test, validazione e rilascio","January 15, 2025","February 12, 2025","4 settimane ",8,Alta,"Sviluppo rete IOT , Integrazione dei moduli",Alta,"Chafry Kawtar, Jacopo Pio, Valentina Fusari",Done

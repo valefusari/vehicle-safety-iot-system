@@ -1,0 +1,12 @@
+﻿ID task,Name,Status,Priorità,Importanza,Date di inizio e fine stimate,Durata,Predecessori,Responsabili,Date di inizio e fine reali
+1,"Analisi dei rischi ",Done,Alta,Alta,"October 26, 2024",1 giorno,"Analisi dei requisiti ","Chafry Kawtar, Valentina Fusari, Jacopo Pio","October 26, 2024"
+2,Analisi dei requisiti,Done,Alta,Alta,"October 25, 2024","1 settimana ","Analisi dello stato dell’arte ","Valentina Fusari, Chafry Kawtar, Jacopo Pio","October 18, 2024"
+3,Sviluppo dashboard,Done,Media,Media,"December 2, 2024",,Progettazione del sistema,,"November 25, 2024"
+4,"Integrazione dei moduli ",Done,Alta,Alta,"January 14, 2025","1 settimana ","Sviluppo del sistema di blocco del veicolo ","Valentina Fusari, Chafry Kawtar, Jacopo Pio","January 7, 2025"
+5,"Sviluppo del modulo di rilevamento delle sostanze stupefacenti ",Done,Alta,Alta,"December 9, 2024","4 settimane ","Progettazione del sistema ","Chafry Kawtar, Valentina Fusari, Jacopo Pio","November 24, 2024"
+6,"Sviluppo del sistema di blocco del veicolo ",Done,Alta,Alta,"January 6, 2025","1 settimana ","Sviluppo del modulo del rilevamento delle sostanze stupefacenti, sviluppo del modulo di rilevamento delle sostanze alcoliche ","Chafry Kawtar, Valentina Fusari, Jacopo Pio","December 9, 2024"
+7,"Analisi dello stato dell’arte ",Done,Alta,Alta,"October 17, 2024","1 giorno ",0,"Valentina Fusari, Chafry Kawtar, Jacopo Pio","October 17, 2024"
+8,"Test, validazione e rilascio",Done,Alta,Alta,"February 12, 2025","4 settimane ","Sviluppo rete IOT , Integrazione dei moduli","Chafry Kawtar, Jacopo Pio, Valentina Fusari","January 15, 2025"
+9,"Sviluppo del modulo di rilevamento alcolico ",Done,Media,Alta,"December 3, 2024","2 settimane ","Progettazione del sistema ","Valentina Fusari, Chafry Kawtar, Jacopo Pio","December 24, 2024"
+10,"Progettazione del sistema ",Done,Alta,Alta,"November 24, 2024","4 settimane ","Analisi dei requisiti, analisi dei rischi ","Valentina Fusari, Chafry Kawtar, Jacopo Pio","October 27, 2024"
+11,Sviluppo rete IOT,Done,Media,Media,"December 16, 2024",3 settimane,Progettazione del sistema,"Chafry Kawtar, Valentina Fusari, Jacopo Pio","November 25, 2024"
